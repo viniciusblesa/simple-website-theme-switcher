@@ -24,7 +24,7 @@ li{
     font-family: monospace;
 }Renmover seletor*/
 
-.ligth-theme{
+.light-theme{
     --bg: var(--green);
     --fontColor: var(--black);
     --btnBg: var(--black);
