@@ -17,3 +17,6 @@ Projeto criado durante curso da Fundação Bradesco com melhorias aplicadas apó
 
 ## Status
 🚧 Em evolução
+
+### Acessar projeto
+https://viniciusblesa.github.io/simple-website-theme-switcher/
